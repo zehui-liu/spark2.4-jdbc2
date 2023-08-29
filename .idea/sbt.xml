@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/.sdkman/candidates/sbt/1.7.2/bin/sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home" />
+    <option name="maximumHeapSize" value="1024" />
+  </component>
+</project>
